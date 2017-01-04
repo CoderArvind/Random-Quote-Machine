@@ -1,0 +1,34 @@
+.container-fluid {
+  min-height: 90vh;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background:rgb(0,139,139);
+}
+
+.jumbotron{
+  background:rgb(205,200,177);
+  margin:20px auto;
+  height:100%;
+  max-width:960px;
+}
+
+h1{
+  text-align:center;
+  font-family:cursive;
+}
+#box{
+ background:rgb(205,51,51);
+ border:15px solid rgb(205,51,51);
+  border-radius:10px;
+  max-width:70%;
+  margin:5% auto auto auto;
+}
+
+footer {
+  background-color: grey;
+  color: white;
+  text-align: center;
+  line-height:5px;
+  padding:5px;
+  font-family: cursive;
+}
